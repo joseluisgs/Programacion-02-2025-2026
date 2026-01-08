@@ -1,0 +1,9 @@
+*.pptx
+.DS_Store
+upload.sh
+ejercicios/*.docx
+/docs/
+soluciones/20*
+ejemplos/20*
+/multimedia/
+
